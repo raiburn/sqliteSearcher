@@ -1,0 +1,39 @@
+C:\Users\Dell\source\repos\ExploradorDeSqlite\bin\Debug\ExploradorDeSqlite.exe.config
+C:\Users\Dell\source\repos\ExploradorDeSqlite\bin\Debug\ExploradorDeSqlite.exe
+C:\Users\Dell\source\repos\ExploradorDeSqlite\bin\Debug\ExploradorDeSqlite.pdb
+C:\Users\Dell\source\repos\ExploradorDeSqlite\obj\Debug\ExploradorDeSqlite.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ExploradorDeSqlite\obj\Debug\ExploradorDeSqlite.Form1.resources
+C:\Users\Dell\source\repos\ExploradorDeSqlite\obj\Debug\ExploradorDeSqlite.Properties.Resources.resources
+C:\Users\Dell\source\repos\ExploradorDeSqlite\obj\Debug\ExploradorDeSqlite.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ExploradorDeSqlite\obj\Debug\ExploradorDeSqlite.exe
+C:\Users\Dell\source\repos\ExploradorDeSqlite\obj\Debug\ExploradorDeSqlite.pdb
+C:\Users\Dell\source\repos\ExploradorDeSqlite\bin\Debug\x86\sqlite3.dll
+C:\Users\Dell\source\repos\ExploradorDeSqlite\bin\Debug\x64\sqlite3.dll
+C:\Users\Dell\source\repos\ExploradorDeSqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dell\source\repos\ExploradorDeSqlite\obj\Debug\ExploradorDeSqlite.csproj.CopyComplete
+C:\Users\Dell\source\repos\ExploradorDeSqlite\obj\Debug\ExploradorDeSqlite.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Music\Proyecto Abril\proyecto_explorador_sqlite\bin\Debug\x86\sqlite3.dll
+C:\Users\Admin\Music\Proyecto Abril\proyecto_explorador_sqlite\bin\Debug\x64\sqlite3.dll
+C:\Users\Admin\Music\Proyecto Abril\proyecto_explorador_sqlite\bin\Debug\ExploradorDeSqlite.exe.config
+C:\Users\Admin\Music\Proyecto Abril\proyecto_explorador_sqlite\bin\Debug\ExploradorDeSqlite.exe
+C:\Users\Admin\Music\Proyecto Abril\proyecto_explorador_sqlite\bin\Debug\ExploradorDeSqlite.pdb
+C:\Users\Admin\Music\Proyecto Abril\proyecto_explorador_sqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Music\Proyecto Abril\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.csprojAssemblyReference.cache
+C:\Users\Admin\Music\Proyecto Abril\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.FrmExpSQLite.resources
+C:\Users\Admin\Music\Proyecto Abril\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.Properties.Resources.resources
+C:\Users\Admin\Music\Proyecto Abril\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.csproj.GenerateResource.cache
+C:\Users\Admin\Music\Proyecto Abril\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.csproj.CopyComplete
+C:\Users\Admin\Music\Proyecto Abril\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.exe
+C:\Users\Admin\Music\Proyecto Abril\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.pdb
+C:\Users\USER\source\repos\proyecto_explorador_sqlite\bin\Debug\x86\sqlite3.dll
+C:\Users\USER\source\repos\proyecto_explorador_sqlite\bin\Debug\x64\sqlite3.dll
+C:\Users\USER\source\repos\proyecto_explorador_sqlite\bin\Debug\ExploradorDeSqlite.exe.config
+C:\Users\USER\source\repos\proyecto_explorador_sqlite\bin\Debug\ExploradorDeSqlite.exe
+C:\Users\USER\source\repos\proyecto_explorador_sqlite\bin\Debug\ExploradorDeSqlite.pdb
+C:\Users\USER\source\repos\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.FrmExpSQLite.resources
+C:\Users\USER\source\repos\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.Properties.Resources.resources
+C:\Users\USER\source\repos\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.csproj.CopyComplete
+C:\Users\USER\source\repos\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.exe
+C:\Users\USER\source\repos\proyecto_explorador_sqlite\obj\Debug\ExploradorDeSqlite.pdb
